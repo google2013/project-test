@@ -1,7 +1,7 @@
 {
   "name": "myqee/project-test",
   "description": "MyQEE test project for Composer",
-  "keywords": ["MyQEE", "test project"],
+  "keywords": ["MyQEE", "MyQEE Project"],
   "homepage": "http://www.myqee.com/",
   "type": "myqee-project",
   "license": "Apache-2.0",
@@ -14,6 +14,6 @@
   ],
   "require": {
     "php": ">=5.3.0",
-    "myqee/installer": "~3.0"
+    "myqee/installer": "~3.*"
   }
 }
